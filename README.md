@@ -1,6 +1,6 @@
 ### Hi there, I'm Vizay - aka [TheJay][website] 👋 
 
-[![Website](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b5630cfe-5815-4112-8c2d-30cf86ac06db/dcqpq0p-60f5ae6b-6fd1-47f3-b0eb-c63c8b11a85e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I1NjMwY2ZlLTU4MTUtNDExMi04YzJkLTMwY2Y4NmFjMDZkYlwvZGNxcHEwcC02MGY1YWU2Yi02ZmQxLTQ3ZjMtYjBlYi1jNjNjOGIxMWE4NWUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0PXfcREOd5vIi8tFTNJxY6Cf-bk3zCDV7ltYWJ1CneA)](https://localhost.com)
+[![Website](https://i.pinimg.com/originals/ce/b4/27/ceb4275f862647cb6a52f13dabd2f3cf.gif)]
 
 ## I'm a student and lazy!!
 
@@ -52,7 +52,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  
+  [![Website](https://giffiles.alphacoders.com/121/12161.gif)]
 
 </details>
 
