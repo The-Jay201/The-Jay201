@@ -1,7 +1,6 @@
-https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"### Hi there, I'm Vizay - aka [TheJay][website] 👋 
+### Hi there, I'm Vizay - aka [TheJay][website] 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://localhost.com)
 
 ## I'm a student and lazy!!
 
@@ -13,8 +12,8 @@ https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c062281
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
+<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 <br />
 
 ### Languages and Tools:
@@ -60,5 +59,5 @@ https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c062281
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://localhost.com
 [youtube]: https://www.youtube.com/channel/UCXNVbs28C_sqm1HOrUhjIxA/videos
