@@ -52,7 +52,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  (https://giffiles.alphacoders.com/121/12161.gif)
+  ![Website](https://giffiles.alphacoders.com/121/12161.gif)
 
 </details>
 
