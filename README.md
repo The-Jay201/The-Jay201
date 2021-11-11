@@ -1,4 +1,4 @@
-### Hi there, I'm Vizay - aka [TheJay][website] ![Website](https://i.gifer.com/4M4x.gif)
+### Hi there, I'm Vizay - aka [TheJay][website] ![Website]
 
 ![Website](https://i.pinimg.com/originals/ce/b4/27/ceb4275f862647cb6a52f13dabd2f3cf.gif)
 
